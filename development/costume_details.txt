@@ -1,0 +1,5 @@
+Cop Costume,Cartmax Inc,$15.5,50
+Formal Suite,Megaplex   ,$14.5,39
+Fairy Costume,DollarSmart,$18,35
+Thor Costume,Marvel Inc ,$23,55
+Princess dress,Disney LTD,$41,24
